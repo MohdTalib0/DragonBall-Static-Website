@@ -46,11 +46,12 @@ Step 3. Run the html file
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-:fire: My Stats : <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohdTalib0&theme=merko&hide_border=true)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTalib0&layout=compact&theme=vision-friendly-dark)]
+<h3> Some ScreenShots </h3>
 
-<h3> Some ScreenShots </h3> <br>
-![Image not available](https://github.com/MohdTalib0/DragonBall.demo/blob/main/Images/Web%20capture_8-4-2023_122744_.jpeg "Web capture_8-4-2023_122744_.jpeg")
+![Alt text](https://github.com/MohdTalib0/DragonBall.demo/blob/main/Images/Web%20capture_8-4-2023_122744_.jpeg "Web capture_8-4-2023_122744_.jpeg")
+![Alt text](https://github.com/MohdTalib0/DragonBall.demo/blob/main/Images/img1.jpeg "img1.jpeg")
+![Alt text](https://github.com/MohdTalib0/DragonBall.demo/blob/main/Images/img2.jpeg "img2.jpeg")
+![Alt text](https://github.com/MohdTalib0/DragonBall.demo/blob/main/Images/img3.jpeg "img3.jpeg")
+![Alt text](https://github.com/MohdTalib0/DragonBall.demo/blob/main/Images/img4.jpeg "img4.jpeg")
+![Alt text](https://github.com/MohdTalib0/DragonBall.demo/blob/main/Images/img5.jpeg "img5.jpeg")
