@@ -52,5 +52,5 @@ Step 3. Run the html file
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTalib0&layout=compact&theme=vision-friendly-dark)]
 
-<h3> Some ScreenShots </h3>
+<h3> Some ScreenShots </h3> <br>
 ![Image not available](https://github.com/MohdTalib0/DragonBall.demo/blob/main/Images/Web%20capture_8-4-2023_122744_.jpeg "Web capture_8-4-2023_122744_.jpeg")
